@@ -1,5 +1,0 @@
-Hello, Hufflepuff! This is a simple test file to demonstrate the
-compression and extraction capabilities of the utility.
-
-It contains some repeated characters like aaaaaaaaaaaaa and bbbbbbbb
-so that Huffman coding can do its job and compress this file down.

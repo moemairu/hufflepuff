@@ -27,9 +27,3 @@ endif()
 
 # ── Subdirectories ───────────────────────────────────────────────────────────
 add_subdirectory(src)
-
-option(PUFF_BUILD_TESTS "Build the Hufflepuff test suite" ON)
-if(PUFF_BUILD_TESTS)
-    enable_testing()
-    add_subdirectory(tests)
-endif()

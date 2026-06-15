@@ -1,0 +1,25 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Archives generated during testing
+*.puff
+
+# OS
+.DS_Store
+Thumbs.db

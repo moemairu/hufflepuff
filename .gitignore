@@ -23,3 +23,7 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Exclude local test and example folders
+tests/
+examples/
